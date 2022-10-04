@@ -17,4 +17,7 @@
 * Swarmplot: Numerical and Categorical Variables
 * Boxplot Group: Numerical and Categorical Variables
 * Heatmap: Numerical and Categorical Variables
+
+
+
 ![functions](https://github.com/ozgekaral/Seaborn-Hands-On-Lectures-Beginner-/blob/main/Screenshot-2020-09-29-at-11.19.40-AM-300x246.png)
