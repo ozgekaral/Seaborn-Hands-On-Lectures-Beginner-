@@ -17,3 +17,4 @@
 * Swarmplot: Numerical and Categorical Variables
 * Boxplot Group: Numerical and Categorical Variables
 * Heatmap: Numerical and Categorical Variables
+![functions](https://.png)
