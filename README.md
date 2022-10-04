@@ -1,5 +1,8 @@
 # Seaborn-Hands-On-Lectures-Beginner-
 
+## Including lots of hands-on knowledge about Python. ##
+### For instance; ###
+
 
 * Univariate Analysis: Numerical Variable
 * Histogram: Single Variable
